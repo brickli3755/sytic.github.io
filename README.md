@@ -1,3 +1,4 @@
 # Love-Page
-# A dating timer page ，allowing for messages
+# A dating timer page 
+# Allowing for messages
 
